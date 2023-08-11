@@ -3,7 +3,14 @@
     margin: 0;
     padding: 0;
 }
+
 main{
     text-align: center;
     color: rebeccapurple;
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+ 
 }
